@@ -1547,17 +1547,17 @@ previous_attribution,39571,1,Otto Müller,"Müller, Otto",,
 previous_attribution,39734,1,Augustin Hirschvogel,"Hirschvogel, Augustin",,
 previous_attribution,39735,1,Augustin Hirschvogel,"Hirschvogel, Augustin",,
 previous_attribution,39741,1,French 18th Century,French 18th Century,Attribution at time of gift,1951      
+previous_attribution,39794,1,Italian 13th Century,Italian 13th Century,,
 previous_attribution,39762,1,Joseph Highmore,"Highmore, Joseph",Attribution at time of gift,
 previous_attribution,39764,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
-previous_attribution,39769,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
 previous_attribution,39765,2,Attributed to John James Audubon,"Audubon, John James, Attributed to",Bd. Tr. approval 10/15/51,
 previous_attribution,39765,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
 previous_attribution,39767,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
 previous_attribution,39768,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
+previous_attribution,39769,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
 previous_attribution,39770,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
 previous_attribution,39771,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
 previous_attribution,39772,1,John James Audubon,"Audubon, John James",Attribution at time of gift,
-previous_attribution,39794,1,Italian 13th Century,Italian 13th Century,,
 previous_attribution,39799,1,Frans Huys after Pieter Bruegel the Elder,"Huys, Frans after Pieter Bruegel the Elder",,
 previous_title,39852,2,Barbarroxa,,,
 previous_title,40013,2,"Cathedral Repairs, Mexico City",,,
@@ -1588,10 +1588,10 @@ previous_attribution,41516,1,British 19th Century,British 19th Century,,
 previous_attribution,41520,1,Honoré Daumier,"Daumier, Honoré",Attribution at time of gift,
 previous_attribution,41521,1,Honoré Daumier,"Daumier, Honoré",Attribution at time of gift,
 previous_attribution,41590,1,Venetian School (Possibly Giorgione),Venetian School (Possibly Giorgione),Attribution at time of gift,
-previous_attribution,41601,2,Antwerp School,Antwerp School,Bd. Tr. approval 5/5/76,
-previous_attribution,41601,1,"Pieter Bruegel, the Elder","Bruegel, Pieter, the Elder",Attribution at time of gift,
 previous_attribution,41594,2,Titian,Titian,Attribution at time of acquisition,1942
 previous_attribution,41596,1,Master of Saint Giles,Master of Saint Giles,Attribution at time of gift,
+previous_attribution,41601,2,Antwerp School,Antwerp School,Bd. Tr. approval 5/5/76,
+previous_attribution,41601,1,"Pieter Bruegel, the Elder","Bruegel, Pieter, the Elder",Attribution at time of gift,
 previous_attribution,41602,1,"Pieter Bruegel, the Elder",N/A,Attribution at time of gift,
 previous_attribution,41604,1,Nicolas Poussin,"Poussin, Nicolas","Attribution at time of acquisition
 ",
@@ -1601,6 +1601,7 @@ previous_attribution,41610,3,British 18th Century,British 18th Century,See 8/17/
 previous_attribution,41610,2,English School,English School,Bd. Tr. approval 4/30/69,
 previous_attribution,41610,1,William Hogarth,"Hogarth, William",Attribution at time of gift,
 previous_attribution,41612,1,Luca Signorelli,"Signorelli, Luca",Attribution at time of gift,
+previous_attribution,41664,1,Nicolas Poussin,"Poussin, Nicolas",Attribution at time of acquisition,
 previous_attribution,41628,1,Orcagna and Jacopo di Cione,Orcagna and Jacopo di Cione,Attribution at time of acquisition,1952
 previous_attribution,41629,3,Workshop of Piero della Francesca,"Piero della Francesca, Workshop of","See 8/17/1983 and 8/23/1983 memos on computer artist file
 ",
@@ -1628,7 +1629,6 @@ previous_attribution,41643,1,Albrecht Altdorfer,"Altdorfer, Albrecht",Attributio
 previous_attribution,41644,1,School of Amiens,School of Amiens,Attribution at time of gift,
 previous_attribution,41654,1,Hispano-Dutch School,Hispano-Dutch School,Attribution at time of gift,
 previous_attribution,41658,1,Studio of Simon Marmion,"Marmion, Simon, Studio of",Attribution at time of acquisition,
-previous_attribution,41664,1,Nicolas Poussin,"Poussin, Nicolas",Attribution at time of acquisition,
 previous_attribution,41675,2,Attributed to Cimabue,"Cimabue, Attributed to",Bd. Tr. approval 1/9/1964,1964-01-09
 previous_attribution,41675,1,Cimabue,Cimabue,Attribution at time of gift,1952
 previous_attribution,41677,1,Domenico Ghirlandaio,"Ghirlandaio, Domenico","Attribution at time of acquisition
@@ -1644,7 +1644,6 @@ previous_attribution,41683,1,Master of the Life of Saint John the Baptist,Master
 previous_attribution,41685,2,Francesco Polazzo,"Polazzo, Francesco",Change made on accession card 3/12/1956; there is no reference in Acquisition Committee or Board of Trustee minutes to this change of attribution.,
 previous_attribution,41685,1,Giovanni Battista Piazzetta,"Piazzetta, Giovanni Battista",Attribution at time of acquisition,
 previous_attribution,41685,3,Giovanni Battista Piazzetta,"Piazzetta, Giovanni Battista","Change memo 9/27/1957, from the Chief Curator to the Registrar; there is no reference in Acquisition Committee or Board of Trustee minutes to this change of attribution.",
-previous_attribution,41700,1,German 16th Century,German 16th Century,Attribution at time of gift,
 previous_attribution,41686,1,North Italian 15th Century,North Italian 15th Century,Attribution at time of gift,
 previous_attribution,41687,1,Follower of Raphael,"Raphael, Follower of",Change memo 11/14/83,1983-11-14
 previous_attribution,41687,2,Circle of Raphael,"Raphael, Circle of",Attribution at time of gift,
@@ -1654,6 +1653,7 @@ previous_attribution,41688,1,Master of the Osservanca Altarpiece,Master of the O
 previous_attribution,41696,1,Umbrian School (Possibly Raphael),Umbrian School (Possibly Raphael),Attribution at time of gift,
 previous_attribution,41696,2,Umbrian School,Umbrian School,Bd. Tr. approval 5/5/1971,2009-07-10
 previous_attribution,41699,1,German 16th Century,German 16th Century,Attribution at time of gift,
+previous_attribution,41700,1,German 16th Century,German 16th Century,Attribution at time of gift,
 previous_attribution,41702,1,Paolo Veneziano,Paolo Veneziano,Attribution at time of acquisition,1952
 previous_attribution,41703,1,Francisco de Zurbarán,"Zurbarán, Francisco de",Attribution at time of gift,
 previous_attribution,41704,1,"Hellenistic School, Egypt","Hellenistic School, Egypt",Attribution at time of gift,
@@ -1677,9 +1677,9 @@ previous_attribution,42279,1,Jacques Callot,"Callot, Jacques",,
 previous_attribution,42280,1,Jacques Callot,"Callot, Jacques",,
 previous_attribution,42281,1,Jacques Callot,"Callot, Jacques",,
 previous_attribution,42282,1,Jacques Callot,"Callot, Jacques",,
-previous_attribution,42390,1,English 14th Century,English 14th Century,Attribution at time of gift,
 previous_attribution,42395,2,Antwerp School (?),Antwerp School (?),"Bd. Tr. approval 5/2/84.  Published in Hand/Wolff 1986 as ""Antwerp Artist (?)"".",
 previous_attribution,42395,1,Ambrosius Benson,"Benson, Ambrosius",Attribution at time of gift,
+previous_attribution,42390,1,English 14th Century,English 14th Century,Attribution at time of gift,
 previous_attribution,42396,2,Antwerp School (?),Antwerp School (?),"Bd. Tr. approval 5/2/84.  Published in Hand/Wolff 1986 as ""Antwerp Artist (?)"".",
 previous_attribution,42396,1,Ambrosius Benson,"Benson, Ambrosius",Attribution at time of gift,
 previous_attribution,42397,1,Ambrosius Benson,"Benson, Ambrosius",Attribution at time of gift,
