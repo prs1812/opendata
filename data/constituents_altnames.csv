@@ -30255,6 +30255,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56999,16843,,"Institute of Contemporary Art, Boston",,Variant
 57000,49110,,"Ateliers Guillard, Gourdon et Cie.",,Preferred Name
 57002,297,,Gemini Ltd.,,Variant
+63431,53953,Manuzio,,,Variant
 57003,49112,Ricordi,"Ricordi, Giovanni",,Preferred Name
 57004,49113,Kellogg,"Kellogg, Elizabeth",,Preferred Name
 57005,49114,,Galerie Karsten Greve,,Preferred Name
@@ -34554,6 +34555,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63392,53930,Gardner,"Gardner, Robert",,Preferred Name
 63394,53932,Weatherford,"Weatherford, Mary",,Preferred Name
 63396,53934,Kulim,"Kulim, Kim",,Preferred Name
+63398,53936,Oppenheim,"Oppenheim, Amy",,Preferred Name
 63400,53938,Kerrich,"Kerrich, Thomas",,Preferred Name
 63401,53938,Kerrich,,,Variant
 63404,53941,Mirsky,"Mirsky, Kenneth",,Preferred Name
@@ -34581,11 +34583,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63427,53957,,Galerie Aktuaryus,,Preferred Name
 63428,53957,,,,Variant
 63430,53953,Manutius,,,Variant
-63431,53953,Manuzio,,,Variant
 63432,53959,Parcero,"Parcero, Tatiana",,Preferred Name
 63433,53960,Garcia,"Garcia, Gustavo",,Preferred Name
 63434,53961,Hanssens,"Hanssens, Veronica",,Preferred Name
 63435,53962,Bass,"Bass, Holly",,Preferred Name
+63437,53964,Baruch,"Baruch, Ruth-Marion",,Preferred Name
+63439,53966,Kayafas,"Kayafas, Gus",,Preferred Name
 63440,53967,Sanders,"Sanders, Piet and Ida",,Preferred Name
 63441,53968,Schindler,"Schindler, Dietrich",,Preferred Name
 63442,53969,Bonaparte,"Bonaparte, Elisa",,Preferred Name
@@ -34755,6 +34758,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63742,54200,González,"González, Carmelo",,Preferred Name
 63743,54201,Gutiérrez,"Gutiérrez, Ana Rosa",,Preferred Name
 63745,54203,Camargo,"Camargo, William",,Preferred Name
+63747,54205,Bush,"Bush, Boyce",,Preferred Name
 63748,54206,Leonian,"Leonian, Phillip",,Preferred Name
 63749,54207,,Leonian Charitable Trust,,Preferred Name
 63752,54210,Holland,"Holland, Compton",,Preferred Name
@@ -34872,6 +34876,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64041,54457,,,,Variant
 64042,1056,Weston,"Weston, Dody",,Nickname/Pseudonym
 64043,1056,Woodward,"Woodward, Margaret",,Maiden Name
+64048,54458,Woolens,"Woolens, J.",,Preferred Name
 64049,54459,Pretsch,"Pretsch, Paul",,Preferred Name
 64050,54460,Cürlis,"Cürlis, Hans Dr.",,Preferred Name
 64051,54461,,"Hertz, Michael",,Preferred Name
