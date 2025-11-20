@@ -867,7 +867,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 926,,"Weis, Paul J., Mr.",Mr. Paul J. Weis,Weis,,0,,,,,Other,individual,
 973,500014669,"Bloch, Martin",Martin Bloch,Bloch,"German, 1883 - 1954",1,1883,1954,1876 to 1900,German,German,individual,Q3295343
 974,500016466,"Böcklin, Arnold",Arnold Böcklin,Böcklin,"Swiss, 1827 - 1901",1,1827,1901,1826 to 1850,Swiss,Swiss,individual,Q123071
-54249,,Fazakas Gallery,Fazakas Gallery,,,0,,,,,Other,corporate,
 930,,"Bader, Franz, Mr. and Mrs.",Mr. and Mrs. Franz Bader,Bader,he: 1903 - 1994,0,1903,1994,1901 to 1925,,Other,couple,
 931,,"Kinnaird, 13th Baron Kinnaird, Graham Charles","Graham Charles Kinnaird, 13th Baron Kinnaird",Kinnaird,"Scottish, 1912 - 1997",0,1912,1997,1901 to 1925,Scottish,Scottish,individual,
 932,,"Hatch, Claire Penelope, Mrs.",Mrs. Claire Penelope Hatch,Hatch,,0,,,,,Other,individual,
@@ -7751,7 +7750,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 8123,,"Tercuzzi, John H.",John H. Tercuzzi,Tercuzzi,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
 8124,,"Thomas, Grace",Grace Thomas,Thomas,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
 26228,,"Licht, Stefan von",Stefan von Licht,Licht,,0,,,,,Other,individual,
-8126,,"Thompson, Archie",Archie Thompson,Thompson,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
+8126,,"Thompson, Archie",Archie Thompson,Thompson,"American, 1886-1975",1,1886,1975,1876 to 1900,American,American,individual,
 8127,,"Thompson, Natalie",Natalie Thompson,Thompson,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
 8128,,"Thorsen, John",John Thorsen,Thorsen,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
 8129,,"Thoss, Harvey",Harvey Thoss,Thoss,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
@@ -27194,6 +27193,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53514,,"Blue Moon Gallery, Yorktown Heights, NY","Blue Moon Gallery, Yorktown Heights, NY",,,1,,,,,Other,corporate,
 53515,,"George Miller and Son, New York","George Miller and Son, New York",,,1,,,,,Other,corporate,
 53517,,"Gachet, Paul Louis Lucien",Paul Louis Lucien Gachet,Gachet,"French, 1873 - 1962",1,1873,1962,1851 to 1875,French,French,individual,
+53518,500348876,"Sterling, Joseph",Joseph Sterling,Sterling,"American, 1936 - 2010",1,1936,2010,1926 to 1950,American,American,individual,Q18421557
 53520,,Ben Elwes Fine Art,Ben Elwes Fine Art,,,0,,,,,Other,corporate,
 53521,,"Larsson, Karin Bergöö",Karin Bergöö Larsson,Larsson,"Swedish, 1859 - 1928",1,1859,1928,1851 to 1875,Swedish,Swedish,individual,Q462529
 53522,,Galerie Myrtis,Galerie Myrtis,,,0,,,,,Other,corporate,
@@ -27492,7 +27492,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54128,500489023,"Pavlović, Vesna",Vesna Pavlović,Pavlović,"Serbian, born Yugoslavia, born 1970",1,1970,,1951 to 1975,Serbian,Other,individual,
 54129,,"Shizuka, Yokomizo",Yokomizo Shizuka,Shizuka,"Japanese, born 1966",1,1966,,1951 to 1975,Japanese,Japanese,individual,
 54130,500121077,"Amorales, Carlos",Carlos Amorales,Amorales,"Mexican, born 1970",1,1970,,1951 to 1975,Mexican,Mexican,individual,Q5041755
-54247,,Association of Print Scholars,Association of Print Scholars,,,0,,,,,Other,purchase_fund,
 54131,500473756,"Liu, Charlene",Charlene Liu,Liu,"American, born Taiwan, born 1979",1,1979,,1976 to 2000,American,American,individual,Q28968148
 54132,500489814,"Moon, Jiha",Jiha Moon,Moon,"American, born South Korea",1,,,,American,American,individual,Q16211613
 54134,,"Simier, René",René Simier,Simier,"French, 1772 - 1843",1,1772,1843,1751 to 1775,French,French,individual,
@@ -27544,6 +27543,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54241,,Koplin Gallery,Koplin Gallery,,Koplin Gallery,0,,,,,Other,corporate,
 54244,,"Fraiche, Donna and John",Donna and John Fraiche,Fraiche,,0,,,,,Other,couple,
 54245,,"Singdahlsen, Paul",Paul Singdahlsen,Singdahlsen,American,1,,,,American,American,individual,
+54247,,Association of Print Scholars,Association of Print Scholars,,,0,,,,,Other,purchase_fund,
+54249,,Fazakas Gallery,Fazakas Gallery,,,0,,,,,Other,corporate,
 54250,,"French, Marina",Marina French,French,,0,,,,,Other,purchase_fund,
 54251,,"Mars, Jacquie",Jacquie Mars,Mars,,0,,,,,Other,purchase_fund,
 54253,,"Horne, Jonathan",Jonathan Horne,Horne,,0,1940,2010,1926 to 1950,British,British,couple,

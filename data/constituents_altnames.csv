@@ -30255,7 +30255,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56999,16843,,"Institute of Contemporary Art, Boston",,Variant
 57000,49110,,"Ateliers Guillard, Gourdon et Cie.",,Preferred Name
 57002,297,,Gemini Ltd.,,Variant
-63431,53953,Manuzio,,,Variant
+63425,53956,,,,Variant
 57003,49112,Ricordi,"Ricordi, Giovanni",,Preferred Name
 57004,49113,Kellogg,"Kellogg, Elizabeth",,Preferred Name
 57005,49114,,Galerie Karsten Greve,,Preferred Name
@@ -30348,6 +30348,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57158,49239,Hepburn-Stuart-Forbes-Trefusis,"Hepburn-Stuart-Forbes-Trefusis, Charles John Robert, 21st baron Clinton",,Preferred Name
 57159,49239,Trefusis,"Trefusis, Charles John Robert",,Variant
 57160,49240,Bowles-Lyon,"Bowles-Lyon, Fenella Hepburn-Stuart-Forbes-Trefusis",,Preferred Name
+63426,53956,,,,Variant
 57161,49240,Hepburn-Stuart-Forbes-Trefusis,"Hepburn-Stuart-Forbes-Trefusis, Fenella Hon.",,Maiden Name
 57162,49240,Bowles-Lyon,"Bowles-Lyon, John Herbert Mrs.",,Married Name
 57163,49241,Somervell,"Somervell, Diana Cinderella Mildred Bowes-Lyon",,Preferred Name
@@ -30445,6 +30446,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57351,18911,Blumenthal,"Blumenthal, Amelia",,Maiden Name
 57352,18911,Perls,"Perls, Dolly Blumenthal",,Nickname/Pseudonym
 57353,49080,Batcheller,,,Variant
+64010,54437,,Espacio 1414,,Preferred Name
 57354,18911,Perls,"Perls, Klaus Gunther",,Full Name
 57355,15950,Perls,"Perls, Klaus Gunther",,Full Name
 57357,18760,Kahn,"Kahn, Anita and Arthur",,Variant
@@ -31037,6 +31039,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58198,49997,Altgens,"Altgens, James William",,Preferred Name
 58199,49997,Altgens,"Altgens, Ike",,Variant
 58200,49998,Dedem,"Dedem, Willem van Baron",,Preferred Name
+64015,48450,Shear,,,Original Name
 58201,49998,Baron van Dedem,"Baron van Dedem, Willem",,Variant
 58202,49999,Zapruder,"Zapruder, Abraham",,Preferred Name
 58203,50000,Stoughton,"Stoughton, Cecil",,Preferred Name
@@ -34296,6 +34299,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62871,49454,McPherson,"McPherson, William D.",,Variant
 62872,53032,Shorey,"Shorey, William Foss",,Variant
 62873,53038,Jarvis,"Jarvis, John Fillis",,Variant
+62875,53518,Sterling,"Sterling, Joseph",,Preferred Name
 62877,53520,,Ben Elwes Fine Art,,Preferred Name
 62878,53521,Larsson,"Larsson, Karin Bergöö",,Preferred Name
 62879,53049,Kilburn,"Kilburn, Benjamin West",,Variant
@@ -34326,6 +34330,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62908,52408,Sengstacke,"Sengstacke, Robert Abbott",,Variant
 62911,53544,Crewdson,"Crewdson, Gregory",,Preferred Name
 62912,53523,Hück,"Hück, Tom",,Variant
+62913,53518,Sterling,"Sterling, Joseph V.",,Variant
 62916,53547,Sabhnani,"Sabhnani, Rahul M",,Preferred Name
 62917,53548,Bowes,"Bowes, Rosemary",,Preferred Name
 62918,53549,Renouvier,"Renouvier, Jules",,Preferred Name
@@ -34578,11 +34583,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63422,53955,Ammann,"Ammann, Ernst Dr.",,Preferred Name
 63423,53956,,Oskar Hermes,,Preferred Name
 63424,53956,,Kunstsalon Oskar Hermes,,Variant
-63425,53956,,,,Variant
-63426,53956,,,,Variant
 63427,53957,,Galerie Aktuaryus,,Preferred Name
 63428,53957,,,,Variant
 63430,53953,Manutius,,,Variant
+63431,53953,Manuzio,,,Variant
 63432,53959,Parcero,"Parcero, Tatiana",,Preferred Name
 63433,53960,Garcia,"Garcia, Gustavo",,Preferred Name
 63434,53961,Hanssens,"Hanssens, Veronica",,Preferred Name
@@ -34863,8 +34867,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63995,54426,,and Workshop of Donatello,,Preferred Name
 64000,26870,Levis,"Levis, Joseph de",,Variant
 64009,8968,Paterson,"Paterson, W.B.",,Variant
-64010,54437,,Espacio 1414,,Preferred Name
-64015,48450,Shear,,,Original Name
 64019,54004,Arrechea Zambrano,"Arrechea Zambrano, Alexander Jésus",,Member of
 64020,54004,Castillo Valdés,"Castillo Valdés, Marco Antonio",,Member of
 64021,54004,Rodriguez Sánchez,"Rodriguez Sánchez, Dagoberto",,Member of
