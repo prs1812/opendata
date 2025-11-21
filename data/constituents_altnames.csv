@@ -30446,7 +30446,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57351,18911,Blumenthal,"Blumenthal, Amelia",,Maiden Name
 57352,18911,Perls,"Perls, Dolly Blumenthal",,Nickname/Pseudonym
 57353,49080,Batcheller,,,Variant
-64010,54437,,Espacio 1414,,Preferred Name
 57354,18911,Perls,"Perls, Klaus Gunther",,Full Name
 57355,15950,Perls,"Perls, Klaus Gunther",,Full Name
 57357,18760,Kahn,"Kahn, Anita and Arthur",,Variant
@@ -31039,7 +31038,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58198,49997,Altgens,"Altgens, James William",,Preferred Name
 58199,49997,Altgens,"Altgens, Ike",,Variant
 58200,49998,Dedem,"Dedem, Willem van Baron",,Preferred Name
-64015,48450,Shear,,,Original Name
 58201,49998,Baron van Dedem,"Baron van Dedem, Willem",,Variant
 58202,49999,Zapruder,"Zapruder, Abraham",,Preferred Name
 58203,50000,Stoughton,"Stoughton, Cecil",,Preferred Name
@@ -34867,6 +34865,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63995,54426,,and Workshop of Donatello,,Preferred Name
 64000,26870,Levis,"Levis, Joseph de",,Variant
 64009,8968,Paterson,"Paterson, W.B.",,Variant
+64010,54437,,Espacio 1414,,Preferred Name
+64015,48450,Shear,,,Original Name
 64019,54004,Arrechea Zambrano,"Arrechea Zambrano, Alexander Jésus",,Member of
 64020,54004,Castillo Valdés,"Castillo Valdés, Marco Antonio",,Member of
 64021,54004,Rodriguez Sánchez,"Rodriguez Sánchez, Dagoberto",,Member of

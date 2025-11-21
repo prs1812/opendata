@@ -17426,7 +17426,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 30809,,"Metzger, Ludwig",Ludwig Metzger,Metzger,,0,,,,,Other,individual,
 30814,,"Gell, William, Sir",Sir William Gell,Gell,1777 - 1836,1,1777,1836,1776 to 1800,,Other,individual,
 30815,,"Gandy, John P.",John P. Gandy,Gandy,"British, 1787 - 1850",1,1787,1850,1776 to 1800,British,British,individual,
-30818,500267051,"Sambunaris, Victoria",Victoria Sambunaris,Sambunaris,"American, born 1967",1,1967,,1951 to 1975,American,American,individual,Q23068140
+30818,500267051,"Sambunaris, Victoria",Victoria Sambunaris,Sambunaris,"American, born 1964",1,1967,,1951 to 1975,American,American,individual,Q23068140
 30819,,"Jacobs, Michael",Michael Jacobs,Jacobs,,0,,,,,Other,individual,
 30823,,"Moitte, Jean-Guillaume",Jean-Guillaume Moitte,Moitte,"French, 1746 - 1810",1,1746,1810,1726 to 1750,French,French,individual,Q3172432
 30824,,"Volaire, Pierre-Jacques",Pierre-Jacques Volaire,Volaire,"French, 1729 - before 1802",1,1729,1802,1726 to 1750,French,French,individual,
@@ -27585,6 +27585,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54354,,Seaton Street Press,Seaton Street Press,,,1,,,,,Other,corporate,
 54357,,"Molini, Giuseppe",Giuseppe Molini,Molini,"Italian, 1772 - 1856",0,1772,1856,1751 to 1775,Italian,Italian,individual,
 54358,500022148,"Vois, Ary de",Ary de Vois,Vois,"Dutch, 1631/32 - 1680",1,1632,1680,1601 to 1650,Dutch,Dutch,individual,Q4802575
+54523,,Galerie Jan de Maere,Galerie Jan de Maere,,founded 1973,0,1973,,1951 to 1975,Belgian,Belgian,corporate,
 54359,,"Trivulzio, Gian Giacomo",Gian Giacomo Trivulzio,Trivulzio,"Italian, 1774 - 1831",0,1774,1831,1751 to 1775,Italian,Italian,individual,
 54360,,Simon Dickinson Ltd.,Simon Dickinson Ltd.,,,0,,,,,Other,corporate,Q130477493
 54361,,"Church, Church of Santa Maria Maggiore",Church of Santa Maria Maggiore,,Bergamo,0,,,,Italian,Italian,corporate,
@@ -27637,7 +27638,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54519,,"Churchill, Sarah Duchess of Marlborough","Sarah Churchill, Duchess of Marlborough",Churchill,"British, 1660 - 1744",0,1660,1744,1651 to 1700,British,British,individual,
 54521,,"Spencer, John 1st Earl Spencer","John Spencer, 1st Earl Spencer",Spencer,"British, 1734 - 1783",0,1734,1783,1726 to 1750,British,British,individual,
 54522,,"Oppermann, Ernst",Ernst Oppermann,Oppermann,"German, c. 1827 - 1888",0,1827,1888,1826 to 1850,German,German,individual,
-54523,,Galerie Jan de Maere,Galerie Jan de Maere,,founded 1973,0,1973,,1951 to 1975,Belgian,Belgian,corporate,
 54524,,"Tauber, Joseph",Joseph Tauber,Tauber,"American, active second half 20th century",1,,,,American,American,individual,
 54525,,Würtemberg,Würtemberg,Würtemberg,died 1841,0,,1841,,German,German,individual,
 54526,,"Herings, J. E.",J. E. Herings,Herings,"German, late 19th century",0,,,,German,German,individual,
