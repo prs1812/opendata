@@ -12084,7 +12084,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21060,21067,Lasry,"Lasry, David Paul",,Preferred Name
 21064,21071,,Galerie Joseph Allard,,Preferred Name
 21065,21072,Devilder,"Devilder, A.",,Preferred Name
-33555,4952,Ascian,Ascian,,Variant
 21066,21073,Gentien,"Gentien, Maurice",,Preferred Name
 21067,21074,Aumont,"Aumont, Pierre-Hippolyte",,Preferred Name
 21068,21075,Donner,"Donner, William Henry",,Preferred Name
@@ -12457,7 +12456,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21928,21935,Jossot,"Jossot, Henri-Gustave",,Preferred Name
 21929,21936,Koos,"Koos, Victor",,Preferred Name
 21930,21937,Lapierre,Lapierre,,Preferred Name
-34391,9111,,Fenway Art Center,,Variant
+33555,4952,Ascian,Ascian,,Variant
 21931,21938,Launay,Launay,,Preferred Name
 21932,21939,Lenart,"Lenart, Harry, Mrs.",,Preferred Name
 21933,21940,Scottish 18th Century,Scottish 18th Century,,Preferred Name
@@ -13015,6 +13014,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22907,22914,Laugé,"Laugé, Achille",,Preferred Name
 22908,22915,Maufra,"Maufra, Maxime",,Preferred Name
 22909,22916,Rachou,"Rachou, Henri",,Preferred Name
+34391,9111,,Fenway Art Center,,Variant
 22910,22917,,"Lichtenstein Foundation, Roy",,Preferred Name
 22911,22918,Courboin,"Courboin, François",,Preferred Name
 22912,22919,Uzanne,"Uzanne, Octave",,Preferred Name
@@ -27299,7 +27299,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50445,43654,Herman,"Herman, Richard A.",,Preferred Name
 50446,7139,Koehler,"Koehler, S. R. Mr.",,Variant
 50447,43656,Lethbridge,"Lethbridge, Francis D.",,Preferred Name
-50449,43658,,Lorillard Company,,Preferred Name
+50449,43658,,"Lorillard, A Division of Loews Theatres, Inc.",,Preferred Name
 50450,43659,Edelman,"Edelman, Morton H.",,Preferred Name
 50452,43661,,David Anderson Gallery,,Preferred Name
 50454,43663,Shirlaw,"Shirlaw, Mrs. Walter",,Preferred Name
@@ -33660,7 +33660,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62051,52856,Pierozzi,"Pierozzi, Caterina Angela",,Preferred Name
 62053,33365,Dike,"Dike, Phil",,Variant
 62056,52860,Resto,"Resto, Joandiel",,Preferred Name
-62057,52861,,Paulson Fontaine,,Preferred Name
+62057,52861,,Paulson Fontaine Press,,Preferred Name
 62058,52862,,Biblioteca Guidetti,,Preferred Name
 62059,52863,,Rugby School Art Museum,,Preferred Name
 62061,13355,Pérignon,,,Variant
@@ -34790,7 +34790,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63799,54253,Horne,"Horne, Jonathan",,Preferred Name
 63800,54253,Horne,"Horne, Rachael",,Spouse
 63816,54269,Hale,"Hale, Ken",,Preferred Name
-63817,54270,,"KJH Press, Austin, TX",,Preferred Name
+63817,54270,,KJH Press,,Preferred Name
 63818,54271,,"Edition Heiner Friedrich, Munich",,Preferred Name
 63819,53990,Smith,"Smith, Allison",,Variant
 63829,54281,Jacques,"Jacques, Louis",,Preferred Name
@@ -34953,4 +34953,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64231,54600,,Librairie de l'eau-forte,,Preferred Name
 64232,54601,,Imprimerie A. Cochet,,Preferred Name
 64233,8126,Thompson,,,Full Name
+64252,54620,,Resettlement Administration,,Preferred Name
 64253,54621,Smith,"Smith, Erminnie Adelle Platt",,Preferred Name
+64255,54623,,Peter Norton Family,,Preferred Name
+64261,54629,,"La Paloma, Los Angeles",,Preferred Name
+64263,43658,,Lorilland Company,,Variant
