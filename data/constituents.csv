@@ -27218,6 +27218,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53538,,"Sepúlveda, Mariano González de",Mariano González de Sepúlveda,Sepúlveda,"Spanish, 1774 - 1842",0,1774,1842,1751 to 1775,Spanish,Spanish,individual,
 53539,,"Between the Covers Rare Books, Inc.","Between the Covers Rare Books, Inc.",,,0,,,,,Other,corporate,
 53540,,"Spectrum Press, Anaheim, CA","Spectrum Press, Anaheim, CA",,,1,,,,,Other,corporate,
+54642,,"Eisen, David",David Eisen,Eisen,American,1,,,,American,American,individual,
 53544,500128025,"Crewdson, Gregory",Gregory Crewdson,Crewdson,"American, born 1962",1,1962,,1951 to 1975,American,American,individual,Q1347062
 53547,,"Sabhnani, Rahul M",Rahul M Sabhnani,Sabhnani,,0,,,,,Other,purchase_fund,
 53548,,"Bowes, Rosemary",Rosemary Bowes,Bowes,,0,,,,,Other,purchase_fund,
@@ -27624,6 +27625,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54460,,"Cürlis, Hans Dr.",Dr. Hans Cürlis,Cürlis,"German, 1889 - 1982",0,1889,1982,1876 to 1900,German,German,individual,
 54461,,"Hertz, Michael",Galerie Michael Hertz,,,0,,,,German,German,corporate,
 54463,,"Serre, Jean-Claude",Jean-Claude Serre,Serre,,0,,,,,Other,individual,
+54643,,Roswell Book Binders,"Roswell Book Binders, Phoenix, Arizona",,,1,,,,American,American,corporate,
 54467,,"Jacques, Joseph Hugue Emile and Marie Lim Pee-Chin",Joseph Hugue Emile and Marie Lim Pee-Chin Jacques,Jacques,,0,1923,1996,1901 to 1925,American,American,couple,
 54493,,"Bechtel, Brendan",Brendan Bechtel,Bechtel,,0,,,,,Other,purchase_fund,
 54494,,"Bram, Jonathan and Susan",Jonathan and Susan Bram,Bram,,0,,,,,Other,purchase_fund,
@@ -27673,5 +27675,3 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54631,,"Gallatin, Emily Lorillard (Morris)",Emily Lorillard (Morris) Gallatin,Gallatin,"American, 1873 - 1944",0,1873,1944,1851 to 1875,American,American,individual,
 54635,,"Gott, William",William Gott,Gott,"British, 1797 - 1863",0,1797,1863,1776 to 1800,British,British,individual,
 54636,,"Gott, John Reverend",Reverend John Gott,Gott,"British, 1830 - 1906",0,1830,1906,1826 to 1850,British,British,individual,
-54642,,"Eisen, David",David Eisen,Eisen,American,1,,,,American,American,individual,
-54643,,Roswell Book Binders,"Roswell Book Binders, Phoenix, Arizona",,,1,,,,American,American,corporate,
