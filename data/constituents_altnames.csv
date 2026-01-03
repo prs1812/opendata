@@ -28206,7 +28206,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54218,25535,,Leavitt Art Galleries,,Variant Index Name
 54220,47157,Alexandrian 2nd Century B.C.,Alexandrian 2nd Century B.C.,,Preferred Name
 54221,47158,Alexandrian 1st Century B.C.,Alexandrian 1st Century B.C.,,Preferred Name
-54223,47160,Ufan,"Ufan, Lee",,Preferred Name
+54223,47160,Lee,"Lee, Ufan",,Preferred Name
 54224,47161,Deitch,"Deitch, Jeffrey",,Preferred Name
 54225,47162,Antoni,"Antoni, Janine",,Preferred Name
 54226,47163,,Derald H. Ruttenberg Foundation,,Preferred Name
@@ -32710,7 +32710,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60474,51627,Eliav,"Eliav, Oren",,Preferred Name
 60475,51628,Mwangi Hutter,Mwangi Hutter,,Preferred Name
 60476,51629,De Bruyckere,"De Bruyckere, Berlinde",,Preferred Name
-60477,51630,Zhen,"Zhen, Chen",,Preferred Name
+60477,51630,Chen,"Chen, Zhen",,Preferred Name
 60478,51628,Mwangi,"Mwangi, Ingrid",,Variant
 60479,51628,Hutter,"Hutter, Robert",,Variant
 60480,8980,,James P. Silo,,Variant
@@ -33298,7 +33298,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61487,3453,Zañartu,"Zañartu, Enrique",,Variant
 61488,3451,Zakharov,"Zakharov, Gury",,Variant
 61489,5843,Wray,"Wray, Richard",,Variant
-61492,52458,Weiwei,"Weiwei, Ai",,Preferred Name
+61492,52458,Ai,"Ai, Weiwei",,Preferred Name
 61493,21225,Maupin,,,Variant
 61496,52461,Moulton,"Moulton, John S.",,Preferred Name
 61497,52462,Austen,"Austen, Alice",,Preferred Name
@@ -34560,7 +34560,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63391,53929,Hawley,"Hawley, Michael",,Preferred Name
 63392,53930,Gardner,"Gardner, Robert",,Preferred Name
 63394,53932,Weatherford,"Weatherford, Mary",,Preferred Name
-63396,53934,Kulim,"Kulim, Kim",,Preferred Name
+63396,53934,Kim,"Kim, Kulim",,Preferred Name
 63398,53936,Oppenheim,"Oppenheim, Amy",,Preferred Name
 63400,53938,Kerrich,"Kerrich, Thomas",,Preferred Name
 63401,53938,Kerrich,,,Variant
