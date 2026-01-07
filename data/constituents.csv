@@ -27553,6 +27553,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54250,,"French, Marina",Marina French,French,,0,,,,,Other,purchase_fund,
 54251,,"Mars, Jacquie",Jacquie Mars,Mars,,0,,,,,Other,purchase_fund,
 54253,,"Horne, Jonathan",Jonathan Horne,Horne,,0,1940,2010,1926 to 1950,British,British,couple,
+54255,500026685,"Valdez, Patssi",Patssi Valdez,Valdez,"American, born 1951",1,1951,,1951 to 1975,American,American,individual,Q7148211
 54269,,"Hale, Ken",Ken Hale,Hale,"American, born 1948",1,1948,,1926 to 1950,American,American,individual,
 54270,,KJH Press,KJH Press,,,1,,,,,Other,corporate,
 54271,,"Edition Heiner Friedrich, Munich","Edition Heiner Friedrich, Munich",,,1,,,,,Other,corporate,
@@ -27675,3 +27676,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54636,,"Gott, John Reverend",Reverend John Gott,Gott,"British, 1830 - 1906",0,1830,1906,1826 to 1850,British,British,individual,
 54642,,"Eisen, David",David Eisen,Eisen,American,1,,,,American,American,individual,
 54643,,Roswell Book Binders,"Roswell Book Binders, Phoenix, Arizona",,,1,,,,American,American,corporate,
+54649,,"Crowell, Alison Bryan",Alison Bryan Crowell,Crowell,,0,,,,,Other,individual,
