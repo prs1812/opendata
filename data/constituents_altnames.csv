@@ -11699,7 +11699,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19057,19064,Grosvenor,"Grosvenor, 1st Earl Grosvenor, Richard",,Preferred Name
 19058,19065,Grosvenor,"Grosvenor, 1st marquis of Westminster, Robert",,Preferred Name
 19059,19066,Grosvenor,"Grosvenor, Hugh Lupus, 1st duke of Westminster",,Preferred Name
-32739,2116,Picard,"Picard, Le",,Variant
+34391,9111,,Fenway Art Center,,Variant
 19061,19068,Grosvenor,"Grosvenor, 2nd duke of Westminster, Hugh Richard Arthur",,Preferred Name
 19072,19079,Huchthausen,"Huchthausen, Timothy",,Preferred Name
 19088,19095,Brus,"Brus, Günter",,Preferred Name
@@ -12459,7 +12459,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21928,21935,Jossot,"Jossot, Henri-Gustave",,Preferred Name
 21929,21936,Koos,"Koos, Victor",,Preferred Name
 21930,21937,Lapierre,Lapierre,,Preferred Name
-33555,4952,Ascian,Ascian,,Variant
 21931,21938,Launay,Launay,,Preferred Name
 21932,21939,Lenart,"Lenart, Harry, Mrs.",,Preferred Name
 21933,21940,Scottish 18th Century,Scottish 18th Century,,Preferred Name
@@ -13017,7 +13016,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22907,22914,Laugé,"Laugé, Achille",,Preferred Name
 22908,22915,Maufra,"Maufra, Maxime",,Preferred Name
 22909,22916,Rachou,"Rachou, Henri",,Preferred Name
-34391,9111,,Fenway Art Center,,Variant
 22910,22917,,"Lichtenstein Foundation, Roy",,Preferred Name
 22911,22918,Courboin,"Courboin, François",,Preferred Name
 22912,22919,Uzanne,"Uzanne, Octave",,Preferred Name
@@ -18892,6 +18890,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32735,2113,da Sangallo,"da Sangallo, Francesco",,Variant Index Name
 32736,2113,Margotta,"Margotta, Il",,Variant
 32738,2115,Gaggini,"Gaggini, Domenico",,Variant
+32739,2116,Picard,"Picard, Le",,Variant
 32740,2120,Balducci,"Balducci, Giovanni",,Variant
 32741,2120,Giovanni da Pisa,Giovanni da Pisa,,Variant
 32744,2122,Goetz,"Goetz, Johannes",,Variant
@@ -19655,6 +19654,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33552,4920,Master PPW,Master PPW,,Variant
 33553,4922,Sanders Alexander van Brugsal,Sanders Alexander van Brugsal,,Variant
 33554,4929,Hammer,"Hammer, Wolf",,Variant
+33555,4952,Ascian,Ascian,,Variant
 33556,4954,Meckenem,"Meckenem, Israhel van the Younger",,Variant
 33557,4969,Menil,"Menil, Elie du",,Variant
 33558,4973,Meusnier,"Meusnier, Louis",,Variant
@@ -34627,6 +34627,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63481,54005,Bedia,"Bedia, José",,Variant
 63482,54006,Ramos,"Ramos, Sandra",,Preferred Name
 63483,54007,Bryce,"Bryce, Fernando",,Preferred Name
+63484,54008,Monge,"Monge, Priscilla",,Preferred Name
+63485,54009,Rennó,"Rennó, Rosangela",,Preferred Name
 63487,54011,Scott,"Scott, Elizabeth Talford",,Preferred Name
 63488,54012,Timmons,"Timmons, Keith",,Preferred Name
 63489,53993,Shay,,,Variant
@@ -34867,6 +34869,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63955,40122,Stanley,"Stanley, Jane M.",,Variant
 63964,54399,,Galerie Simonne Stern,,Preferred Name
 63965,54400,,Michael Hall Antiques and Fine Art,,Preferred Name
+63967,54402,Gordon,"Gordon, Kenneth H. Jr. and Janice Taylor",,Preferred Name
 63968,54403,Peters,"Peters, Scott",,Preferred Name
 63969,54404,Tang,"Tang, Susan L.",,Preferred Name
 63982,54417,Lathrop,"Lathrop, George Alfred Dr.",,Preferred Name
@@ -34975,10 +34978,18 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64264,54631,Gallatin,"Gallatin, Emily Lorillard (Morris)",,Preferred Name
 64268,54635,Gott,"Gott, William",,Preferred Name
 64269,54636,Gott,"Gott, John Reverend",,Preferred Name
+64271,54638,,Henrique Faria Fine Art,,Preferred Name
 64273,30567,Wyer,"Wyer, Daniela Laube",,Married Name
 64275,42714,,,,Variant
 64279,54642,Eisen,"Eisen, David",,Preferred Name
 64280,54643,,Roswell Book Binders,,Preferred Name
 64283,47202,,Robert and Mary M. Looker Family Trust,,Variant
+64284,54645,Mohle-Boetani,"Mohle-Boetani, Janet",,Preferred Name
 64288,54649,Crowell,"Crowell, Alison Bryan",,Preferred Name
+64290,54651,,Greitzer and Locks Law Firm,,Preferred Name
 64292,50175,,Bassman/Himmel Studio,,Variant
+64294,54654,,,,Preferred Name
+64296,54656,,Marian Locks Gallery,,Preferred Name
+64297,54657,,Galeria Fortes Vilaça,,Preferred Name
+64299,54658,,Barbara Thumm Gallery,,Preferred Name
+64301,54660,,Jacobo Karpio Galería,,Preferred Name
