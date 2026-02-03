@@ -26,6 +26,8 @@ previous_attribution,19,2,Antonio del Pollaiuolo,"Pollaiuolo, Antonio del",Bd. T
 previous_attribution,19,1,Andrea del Castagno,"Castagno, Andrea del",Attribution at time of gift,
 previous_attribution,22,1,Botticelli,Botticelli,Attribution at time of gift,
 previous_attribution,35,1,Byzantine 13th Century,Byzantine 13th Century,Attribution at time of acquisition,1937
+previous_attribution,319,2,Andrea Mantegna,"Mantegna, Andrea",Original Kress Collection attribution,
+previous_attribution,319,1,Circle of Andrea Mantegna,"Mantegna, Andrea, Circle of",Bd. Tr. approval 9/26/72,1972-09-26
 previous_attribution,25,1,Pisanello,Pisanello,Attribution at time of gift,
 previous_attribution,32,1,Giovanni Bellini,"Bellini, Giovanni",Attribution at time of gift,
 previous_attribution,38,1,Antonello da Messina,Antonello da Messina,"Attribution at time of acquisition
@@ -60,7 +62,6 @@ previous_attribution,92,1,Francisco de Goya,"Goya, Francisco de",,
 previous_attribution,93,1,Francisco de Goya,"Goya, Francisco de",Attribution at time of gift,
 previous_attribution,94,1,Francisco de Goya,"Goya, Francisco de",Attribution at time of gift,
 previous_attribution,95,1,Francisco de Goya,"Goya, Francisco de",,
-previous_attribution,130,1,Luca della Robbia,"Robbia, Luca della",Attribution at time of gift,
 previous_attribution,105,1,Thomas Gainsborough,"Gainsborough, Thomas",Attribution at time of gift,
 previous_attribution,105,2,Studio of Thomas Gainsborough,"Gainsborough, Thomas, Studio of",Bd. Tr. approval 1/25/1973,""
 previous_attribution,119,1,Florentine 15th Century,Florentine 15th Century,Bd. Tr. approval 5/5/76,1976-05-05
@@ -74,13 +75,12 @@ previous_attribution,127,1,Giovanni Antonio Amadeo,"Amadeo, Giovanni Antonio",At
 previous_attribution,128,1,Giovanni Antonio Amadeo,"Amadeo, Giovanni Antonio",Attribution at time of gift,
 previous_attribution,129,1,Luca della Robbia,"Robbia, Luca della",Attribution at time of gift,
 previous_attribution,129,2,Atelier of Andrea della Robbia,"Robbia, Andrea della, Atelier of",Bd. Tr. approval 2/1/41,
+previous_attribution,130,1,Luca della Robbia,"Robbia, Luca della",Attribution at time of gift,
 previous_attribution,131,2,Andrea della Robbia,"Robbia, Andrea della",Bd. Tr. approval 2/1/41,
 previous_attribution,131,1,Luca della Robbia,"Robbia, Luca della",Attribution at time of gift,
 previous_attribution,133,1,Mino da Fiesole,Mino da Fiesole,Attribution at time of gift,
 previous_attribution,136,2,Florentine 15th Century,Florentine 15th Century,Bd. Tr. approval 2/1/1941,2010-01-19
 previous_attribution,136,1,Desiderio da Settignano,Desiderio da Settignano,Attribution at time of gift,
-previous_attribution,239,1,Jacopo Tintoretto,"Tintoretto, Jacopo",Bd. Tr. approval 10/4/1984,1984-10-04
-previous_attribution,239,2,Dosso Dossi,"Dossi, Dosso",Attribution at time of gift,1939
 previous_attribution,137,3,Benedetto da Maiano,Benedetto da Maiano,Bd. Tr. approval 10/4/1984,
 previous_attribution,137,1,Donatello,Donatello,Attribution at time of gift,
 previous_attribution,137,2,Studio of Benedetto da Maiano,"Benedetto da Maiano, Studio of",Bd. Tr. approval 5/5/1976,          
@@ -99,6 +99,8 @@ previous_attribution,161,2,Lippo Memmi (?),Lippo Memmi (?),"Bd. Tr. approval 2/1
 previous_attribution,161,1,Lippo Memmi,Lippo Memmi,Attribution at time of acquisition,
 previous_attribution,220,1,Pontormo,Pontormo,Attribution at time of gift,
 previous_attribution,229,1,Domenico Fetti,"Fetti, Domenico",Attribution at time of gift,
+previous_attribution,239,1,Jacopo Tintoretto,"Tintoretto, Jacopo",Bd. Tr. approval 10/4/1984,1984-10-04
+previous_attribution,239,2,Dosso Dossi,"Dossi, Dosso",Attribution at time of gift,1939
 previous_attribution,256,2,Attributed to Francesco del Cossa,"Cossa, Francesco del, Attributed to","Bd. Tr. approval 1/9/1964
 ",
 previous_attribution,256,1,Francesco del Cossa,"Cossa, Francesco del",Attribution at time of gift,
@@ -106,8 +108,6 @@ previous_attribution,272,1,Master of the Life of Saint John the Baptist,Master o
 previous_attribution,272,2,Giovanni Baronzio,"Baronzio, Giovanni",Attribution at time of gift,1939
 previous_attribution,283,2,Italian 16th Century,Italian 16th Century,Change memo 11/14/83,
 previous_attribution,283,1,Venetian School (Possibly Giorgione),Venetian School (Possibly Giorgione),Attribution at time of gift,
-previous_attribution,319,2,Andrea Mantegna,"Mantegna, Andrea",Original Kress Collection attribution,
-previous_attribution,319,1,Circle of Andrea Mantegna,"Mantegna, Andrea, Circle of",Bd. Tr. approval 9/26/72,1972-09-26
 previous_attribution,294,1,Biagio d'Antonio da Firenze,Biagio d'Antonio da Firenze,"Bd. Tr. approval 1/9/1964 not for a true attribution change, but for a change from using the name Giovanni Battista Utili, then thought to be a different name for the same artist, but now identified as Giovanni Battista Bertucci.
 ",1964-01-09
 previous_attribution,296,1,Perugino,Perugino,Attribution at time of gift,
