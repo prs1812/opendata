@@ -634,7 +634,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 670,677,,Galerie Beyeler,,Preferred Name
 671,678,Bier,"Bier, Herbert N., Mr.",,Preferred Name
 672,679,Bimm,"Bimm, H. Lee, Mr.",,Preferred Name
-58966,6716,,Alex Katz Studio,,Variant
 673,680,Bonafous-Murat,"Bonafous-Murat, Arsene, Monsieur",,Preferred Name
 674,681,,"Botton Associates, De",,Preferred Name
 675,682,,Private Collection c/o Mr. F. Lorenceau,,Variant
@@ -1475,7 +1474,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1566,1573,,"Protetch Gallery, Max",,Preferred Name
 1567,1574,Fishman,"Fishman, Robert, Dr. and Mrs.",,Preferred Name
 1568,1575,,"Sourget, Patrick et Elisabeth",,Preferred Name
-62854,53508,,Tresart,,Preferred Name
 1569,1576,,"Nahum at the Leicester Galleries, Peter",,Preferred Name
 1570,1577,Drummond,"Drummond, Thomas, Dr.",,Preferred Name
 1571,1578,,"Dance, Inc., Robert",,Preferred Name
@@ -31632,6 +31630,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58960,50547,,Galerie Rosenbach,,Preferred Name
 58961,50548,,Annely Juda Fine Art,,Preferred Name
 58962,3689,Cardon,"Cardon, Antoine",,Variant
+58966,6716,,Alex Katz Studio,,Variant
 58968,50553,Foster,"Foster, Edmund Benson",,Preferred Name
 58971,39003,Lahey,"Lahey, Richard Francis",,Variant
 58972,5769,,Master of the Saint John Statuettes,,Variant
@@ -31726,6 +31725,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59090,50644,,Martin Diamond Fine Arts,,Preferred Name
 59091,50645,,Rona Schneider,,Preferred Name
 59092,50646,,Wolfe Street Gallery,,Preferred Name
+59468,4374,Holsteyn,Holsteyn,,Variant
 59093,50647,Flint,"Flint, Janet",,Preferred Name
 59094,50648,Kelson,"Kelson, H. Eugene",,Preferred Name
 59096,50649,Critcherson,"Critcherson, George P.",,Preferred Name
@@ -31823,6 +31823,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59226,50751,Mims,"Mims, Roddey E.",,Preferred Name
 59228,50753,Carter,"Carter, Mardee",,Preferred Name
 59229,50754,Kienholz,"Kienholz, Noah",,Preferred Name
+62727,53411,,Adál,,Preferred Name
 59230,50755,Pringle,"Pringle, James",,Preferred Name
 59231,50756,Mack,"Mack, Linda",,Preferred Name
 59232,50757,Georg,"Georg, Ole",,Preferred Name
@@ -32018,7 +32019,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59465,50917,Ting,"Ting, Eric",,Preferred Name
 59466,50918,,William A. Clark Fund,,Preferred Name
 59467,4374,Holsteyn,Holsteyn the younger,,Variant
-59468,4374,Holsteyn,Holsteyn,,Variant
 59469,50919,,Jenkins-Johnson Gallery,,Preferred Name
 59470,50920,Thomas,"Thomas, Mickalene",,Preferred Name
 59471,50921,Cabanas,"Cabanas, Carla",,Preferred Name
@@ -34187,7 +34187,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62723,5210,Phélippes-Beaulieux,,,Variant
 62725,53409,Röver,"Röver, Valerius",,Preferred Name
 62726,53410,Goll van Franckenstein,"Goll van Franckenstein, Johann",,Preferred Name
-62727,53411,,Adál,,Preferred Name
 62728,53411,Maldonado,"Maldonado, Adál",,Variant
 62729,53412,Heidsieck,"Heidsieck, E. John Mrs.",,Preferred Name
 62731,53414,Julien,"Julien, Isaac",,Preferred Name
@@ -34291,6 +34290,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62851,53436,,"Ely, Paula",,Variant
 62852,53507,Gruen,"Gruen, Walter",,Preferred Name
 62853,53507,Gruen Berger,"Gruen Berger, Walter",,Variant
+62854,53508,,Tresart,,Preferred Name
 62855,53509,Hagefstration,"Hagefstration, John",,Preferred Name
 62856,53510,Wrighton,"Wrighton, Bruce",,Preferred Name
 62861,53514,,"Blue Moon Gallery, Yorktown Heights, NY",,Preferred Name
@@ -34989,6 +34989,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64280,54643,,Roswell Book Binders,,Preferred Name
 64283,47202,,Robert and Mary M. Looker Family Trust,,Variant
 64284,54645,Mohle-Boetani,"Mohle-Boetani, Janet",,Preferred Name
+64285,54646,,Paula Ely Fund,,Preferred Name
 64288,54649,Crowell,"Crowell, Alison Bryan",,Preferred Name
 64290,54651,,Greitzer and Locks Law Firm,,Preferred Name
 64291,54652,Cohen,"Cohen, Nina",,Preferred Name
