@@ -15387,6 +15387,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27451,27458,Conte,"Conte, William, Dr.",,Preferred Name
 27453,27460,,Libreria Antiquaria Soave,,Preferred Name
 27456,27463,,"Berkman, Lillian, Estate of",,Preferred Name
+27461,27468,Noskowiak,"Noskowiak, Sonya",,Preferred Name
 27463,27470,Graff,"Graff, Karl Anton",,Preferred Name
 27464,27471,Kraukling,"Kraukling, Constantin",,Preferred Name
 27465,27472,Fritz,"Fritz, Arndt",,Preferred Name
@@ -30889,6 +30890,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58008,49841,Campbell,"Campbell, Thomas",,Preferred Name
 58009,49842,Hunt,"Hunt, Leavitt",,Preferred Name
 58010,49843,Moore,"Moore, Thomas",,Preferred Name
+58011,49844,Mieth,"Mieth, Hansel",,Preferred Name
 58012,49845,Eliot,"Eliot, George",,Preferred Name
 58013,49845,Evans,"Evans, Mary Anne",,Full Name
 58015,49847,Reynolds,"Reynolds, John Hamilton",,Preferred Name
@@ -32600,6 +32602,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60311,43833,,Ronald Feldman Gallery,,Variant
 60312,49857,Brody,,,Birth Name
 60313,49445,McLaughlin,"McLaughlin, Frances",,Birth Name
+60315,49844,Mieth,"Mieth, Johanna",,Birth Name
 60316,38366,Modotti Mondini,,,Birth Name
 60318,23909,Johnson,,,Birth Name
 60321,1689,Fini,"Fini, Tommaso di Cristoforo",,Full Name
@@ -34410,9 +34413,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63049,53641,,,,Spouse
 63050,53642,Specker,"Specker, Roland",,Preferred Name
 63051,53643,Harris,"Harris, Lyle Ashton",,Preferred Name
+63053,53644,De Cock,"De Cock, Liliane",,Preferred Name
 63054,53645,Cook,"Cook, George S.",,Preferred Name
 63055,53646,Hime,"Hime, Humphrey Lloyd",,Preferred Name
 63056,53647,Larkin,"Larkin, James Lieutenant Colonel",,Preferred Name
+63057,53648,,Tucker & Perkins,,Preferred Name
 63058,53649,Warren,"Warren, Henry F.",,Preferred Name
 63060,26241,Baldinger-Seidenberg,,,Variant
 63061,53651,Banerjee,"Banerjee, Subhankar",,Preferred Name
@@ -35001,3 +35006,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64301,54660,,Jacobo Karpio Galería,,Preferred Name
 64335,34349,,,,Variant
 64336,54692,Prager,"Prager, Joanne",,Preferred Name
+64375,28102,,Vintage Galeria,,Variant

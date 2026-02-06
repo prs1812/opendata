@@ -15404,6 +15404,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27458,,"Conte, William, Dr.",Dr. William Conte,Conte,,0,,,,,Other,individual,
 27460,,Libreria Antiquaria Soave,Libreria Antiquaria Soave,,,0,,,,,Other,corporate,
 27463,,"Berkman, Lillian, Estate of",Estate of Lillian Berkman,,,0,,,,,Other,corporate,
+27468,500068312,"Noskowiak, Sonya",Sonya Noskowiak,Noskowiak,"American, born Germany, 1900 - 1975",1,1900,1975,1876 to 1900,American,American,individual,
 27470,,"Graff, Karl Anton",Karl Anton Graff,Graff,"German, died 1832",0,1732,1832,1726 to 1750,German,German,individual,
 27471,,"Kraukling, Constantin",Constantin Kraukling,Kraukling,,0,,,,,Other,individual,
 27472,,"Fritz, Arndt",Arndt Fritz,Fritz,,0,,,,,Other,individual,
@@ -24719,6 +24720,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49841,,"Campbell, Thomas",Thomas Campbell,Campbell,"Scottish, 1777 - 1884",1,1777,1884,1776 to 1800,Scottish,Scottish,individual,
 49842,,"Hunt, Leavitt",Leavitt Hunt,Hunt,"American, 1831 - 1907",1,1831,1907,1826 to 1850,American,American,individual,
 49843,,"Moore, Thomas",Thomas Moore,Moore,"Irish, 1779 - 1852",1,1779,1852,1776 to 1800,Irish,Other,individual,
+49844,500477306,"Mieth, Hansel",Hansel Mieth,Mieth,"American, born Germany, 1909 - 1998",1,1909,1998,1901 to 1925,American,American,individual,Q97262
 49845,,"Eliot, George",George Eliot,Eliot,"English, 1819 - 1880",1,1819,1880,1801 to 1825,English,English,individual,
 49847,,"Reynolds, John Hamilton",John Hamilton Reynolds,Reynolds,"English, 1794 - 1852",1,1794,1852,1776 to 1800,English,English,individual,
 49848,,"Mandello, Jeanne",Jeanne Mandello,Mandello,"German, 1907 - 2001",1,1907,2001,1901 to 1925,German,German,individual,Q17425397
@@ -27271,9 +27273,11 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53641,,"Solomon, Holly",Holly Solomon,Solomon,1934 - 2002,0,1934,2002,1926 to 1950,,Other,individual,
 53642,,"Specker, Roland",Roland Specker,Specker,,0,,,,,Other,individual,
 53643,,"Harris, Lyle Ashton",Lyle Ashton Harris,Harris,"American, born 1965",1,1965,,1951 to 1975,American,American,individual,Q3841000
+53644,500337538,"De Cock, Liliane",Liliane De Cock,De Cock,"American, born Belgium, 1939 - 2013",1,1939,2013,1926 to 1950,American,American,individual,Q24175064
 53645,500061483,"Cook, George S.",George S. Cook,Cook,"American, 1819 - 1902",1,1819,1902,1801 to 1825,American,American,individual,Q5544144
 53646,500036778,"Hime, Humphrey Lloyd",Humphrey Lloyd Hime,Hime,"Canadian, born Ireland, 1833 - 1903",1,1833,1903,1826 to 1850,Canadian,Canadian,individual,Q42313431
 53647,,"Larkin, James Lieutenant Colonel",Lieutenant Colonel James Larkin,Larkin,"American, 1832 - 1911",1,1832,1911,1826 to 1850,American,American,individual,
+53648,,Tucker & Perkins,Tucker & Perkins,,"American, active c. 1852 - 1861",1,1852,1861,1851 to 1875,American,American,corporate,
 53649,,"Warren, Henry F.",Henry F. Warren,Warren,"American, active 1860s",1,,,,American,American,individual,
 53651,500128664,"Banerjee, Subhankar",Subhankar Banerjee,Banerjee,"American, born India 1967",1,1967,,1951 to 1975,American,American,individual,Q7631186
 53652,,"Tavernier, Melchior",Melchior Tavernier,Tavernier,"French, 1594 - 1665",1,1594,1665,1551 to 1600,French,French,individual,
@@ -27320,7 +27324,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53702,,"Beillet, Abraham",Abraham Beillet,Beillet,"French, active 1850 - 1876",1,1850,1876,1826 to 1850,French,French,individual,
 53703,,"Barthou, Louis",Louis Barthou,Barthou,"French, 1862 - 1934",0,1862,1934,1851 to 1875,French,French,individual,
 53704,,"Dugan, Jess T.",Jess T. Dugan,Dugan,"American, born 1986",1,1986,,1976 to 2000,American,American,individual,
-54404,,"Tang, Susan L.",Susan L. Tang,Tang,,0,,,,,Other,purchase_fund,
+54293,,"Goldstein, Robert D.",Robert D. Goldstein,Goldstein,,0,,,,,Other,individual,
 53705,,"Maravilla, Guadalupe",Guadalupe Maravilla,Maravilla,"American, born El Salvador, 1975",1,1975,,1951 to 1975,American,American,individual,Q107436373
 53706,,Clamp Art,Clamp Art,,,0,,,,,Other,corporate,
 53707,,"Schweiglin, Elias",Elias Schweiglin,Schweiglin,"German, active c. 1565 - 1614",1,1550,1614,1501 to 1550,German,German,individual,
@@ -27425,6 +27429,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53976,,"Stillman, Marie Spartali",Marie Spartali Stillman,Stillman,"British, 1844 - 1927",1,1844,1927,1826 to 1850,British,British,individual,
 53979,,"Bremer, Sebastiaan",Sebastiaan Bremer,Bremer,"Dutch, born 1970",1,1970,,1951 to 1975,Dutch,Dutch,individual,Q7442346
 53983,500782811,"Gibson, Mark Thomas",Mark Thomas Gibson,Gibson,"American, born 1980",1,1980,,1976 to 2000,American,American,individual,Q50874910
+54404,,"Tang, Susan L.",Susan L. Tang,Tang,,0,,,,,Other,purchase_fund,
 53984,500129199,"Harvey, Ellen",Ellen Harvey,Harvey,"British, born 1967",1,1967,,1951 to 1975,British,British,individual,Q1331828
 53985,500102480,"Kass, Deborah",Deborah Kass,Kass,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,Q5248288
 53986,,"Locke, Hew",Hew Locke,Locke,"British, born 1959",1,1959,,1951 to 1975,British,British,individual,Q15433825
@@ -27569,7 +27574,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54287,,"University of Nebraska, Omaha","University of Nebraska, Omaha",,,1,,,,,Other,corporate,
 54289,500473428,"Gitman, Victoria",Victoria Gitman,Gitman,"Argentinean, born 1972",1,1972,,1951 to 1975,Argentinean,Other,individual,Q32542418
 54290,500116049,"Rubins, Nancy",Nancy Rubins,Rubins,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,Q2236424
-54293,,"Goldstein, Robert D.",Robert D. Goldstein,Goldstein,,0,,,,,Other,individual,
 54295,500092410,"Eversley, Fred",Fred Eversley,Eversley,"American, 1941 - 2025",1,1941,2025,1926 to 1950,American,American,individual,Q18977966
 54296,,David Kordansky Gallery,David Kordansky Gallery,,,0,,,,,Other,corporate,
 54298,,"d'Argenville, Antoine Joseph Dezallier",Antoine Joseph Dezallier d'Argenville,d'Argenville,"French, 1680 - 1765",0,1680,1765,1651 to 1700,French,French,individual,
