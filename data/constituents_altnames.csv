@@ -34704,10 +34704,15 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63565,54046,Baumgartner,"Baumgartner, F. W.",,Preferred Name
 63567,54048,,The Letter Edged in Black Press Inc.,,Preferred Name
 63576,23625,Spangenberg,,,Variant
+63582,54058,Thompson,"Thompson, Mildred",,Preferred Name
 63583,26060,Gutfreund,"Gutfreund, Oto",,Variant
 63585,54060,Grossman,"Grossman, Serge",,Preferred Name
 63586,54061,Walker,"Walker, Reid",,Preferred Name
 63590,54065,Chachoin,"Chachoin, Henri",,Preferred Name
+63592,54067,Malone,"Malone, James Hiram",,Preferred Name
+63594,54069,McIver,"McIver, Beverly",,Preferred Name
+63596,54071,Ahearn,"Ahearn, John",,Preferred Name
+63597,54072,Torres,"Torres, Rigoberto",,Preferred Name
 63603,54078,Browne,"Browne, Vivian",,Preferred Name
 63607,2844,,Agra 17th Century,,Variant Index Name
 63610,54084,"Héricart-Ferrand, vicomte de Thury","Héricart-Ferrand, vicomte de Thury, Louis-Étienne François",,Preferred Name
@@ -34926,6 +34931,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64097,54497,Massie,"Massie, Winona Lake",,Preferred Name
 64098,54498,Greenfield,"Greenfield, Karyn",,Preferred Name
 64099,54499,,"Funds from Ronald M. Costell, M.D. and the Estate of Marsha E. Swiss",,Preferred Name
+64106,54505,Giroux,"Giroux, Ann",,Preferred Name
 64110,54507,Comas y Blanco,"Comas y Blanco, Augosto",,Preferred Name
 64112,54509,Fernandez-Aldao,"Fernandez-Aldao, Manuel",,Preferred Name
 64113,7273,Bettle,"Bettle, Mary H",,Variant
@@ -34963,6 +34969,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64166,54541,Gelder,"Gelder, Aert de",,Preferred Name
 64167,54542,Sprinck,"Sprinck, Christian Friedrich",,Preferred Name
 64169,54544,Sala,"Sala, Paolo",,Preferred Name
+64172,54546,Toor,"Toor, Salman",,Preferred Name
+64173,54547,Bronzini,"Bronzini, Carlo",,Preferred Name
 64178,54551,Tiel,"Tiel, Jan",,Preferred Name
 64179,54552,Jeffryes,"Jeffryes, John",,Preferred Name
 64180,54553,Gellatly,"Gellatly, Peter",,Preferred Name
@@ -34971,6 +34979,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64186,54558,Bade,"Bade, Anthony N.",,Preferred Name
 64187,54559,,Servarts Beaux-Arts,,Preferred Name
 64210,54580,Bonazza,"Bonazza, Giovanni",,Preferred Name
+64212,54582,Sosnoff,"Sosnoff, Toni and Martin",,Preferred Name
 64223,54593,Abend,"Abend, Carol",,Preferred Name
 64224,54594,Toda,"Toda, Tadashi",,Preferred Name
 64228,54598,Moncornet,"Moncornet, Veuve",,Preferred Name
@@ -35004,8 +35013,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64297,54657,,Galeria Fortes Vilaça,,Preferred Name
 64299,54658,,Barbara Thumm Gallery,,Preferred Name
 64301,54660,,Jacobo Karpio Galería,,Preferred Name
+64304,54663,,Alex Cooper Auctioneers,,Preferred Name
 64335,34349,,,,Variant
 64336,54692,Prager,"Prager, Joanne",,Preferred Name
+64350,54706,,Craven Allen Gallery,,Preferred Name
+64363,54719,Bullock,"Bullock, Raymond",,Preferred Name
 64375,28102,,Vintage Galeria,,Variant
 64377,8095,Casey,"Casey, Ella Josephine",,Variant
 64378,8246,Stottlemeyer,"Stottlemeyer, Margaret Rebecca ""Pattie""",,Variant
