@@ -2108,6 +2108,8 @@ previous_attribution,44310,2,Attributed to Flemish 17th Century,"Flemish 17th Ce
 previous_attribution,44310,1,Italian 16th Century,Italian 16th Century,Attribution at time of gift,
 previous_attribution,45644,2,School of Francesco Guardi,"Guardi, Francesco, School of",Bd. Tr. approval 1/19/65,
 previous_attribution,45644,1,Francesco Guardi,"Guardi, Francesco",Attribution at time of gift,
+previous_title,46756,2,The Peasant Banquet,,updated to match 2024 NHG cat rais,
+previous_title,46757,2,The Peasant Fight,,updated to match 2024 NHG cat rais,
 previous_attribution,44374,1,Antonio Marescotti,"Marescotti, Antonio",Attribution at time of acquisition,""
 previous_attribution,44375,1,Antonio Marescotti,"Marescotti, Antonio",Attribution at time of acquisition,""
 previous_title,44385,2,"Acarino d'Este, Legendary Ancestor of the Estensi",,,
@@ -2129,6 +2131,7 @@ previous_attribution,44458,1,Circle of Giancristoforo Romano,"Romano, Giancristo
 previous_attribution,44459,1,Circle of Giancristoforo Romano,"Romano, Giancristoforo, Circle of",Attribution at time of gift,
 previous_attribution,44460,2,Attributed to Giancristoforo Romano,"Romano, Giancristoforo, Attributed to",Reported to Bd. Tr. 10/4/1984,""
 previous_attribution,44460,1,Circle of Giancristoforo Romano,"Romano, Giancristoforo, Circle of",Attribution at time of gift,
+previous_title,46758,2,Peasants behind the Hedge,,updated to match 2024 NHG cat rais,
 previous_title,44522,2,"Ercole I d'Este, 1431-1505, Duke of Ferrara, and Eleonora of Aragon, 1450-1493, His Wife 1473",,Title adjusted to match Medals syscat,2009-11-23
 previous_attribution,44572,1,after Giovanni Boldù,"Boldù, Giovanni, after",Reported to Bd. Tr. 5/4/1983,1983-05-04
 previous_attribution,44572,2,Giovanni Boldù,"Boldù, Giovanni",Attribution at time of gift,
@@ -2204,6 +2207,7 @@ previous_attribution,44711,1,Roman 15th Century,Roman 15th Century,Attribution a
 previous_attribution,44724,1,Attributed to Giovanni Candida,"Candida, Giovanni, Attributed to",Reported to Bd. Tr. 5/4/1983,1983-05-04
 previous_attribution,44724,2,Giovanni Candida (?),"Candida (?), Giovanni",Attribution at time of gift,
 previous_attribution,44725,1,Giovanni Candida,"Candida, Giovanni",Attribution at time of acquisition,""
+previous_title,45979,2,Bringing the Goats to Market Sacrifice (Trinidad),,,
 previous_attribution,44726,1,Giovanni Candida,"Candida, Giovanni",Attribution at time of acquisition,""
 previous_attribution,44727,1,Giovanni Candida (?),"Candida (?), Giovanni",Attribution at time of gift,
 previous_attribution,44728,1,Giovanni Candida (?),"Candida (?), Giovanni",Attribution at time of gift,
@@ -2231,9 +2235,9 @@ previous_attribution,44753,1,Giovanni Candida,"Candida, Giovanni",Attribution at
 previous_attribution,44754,1,Giovanni Candida,"Candida, Giovanni",Attribution at time of acquisition,""
 previous_attribution,44755,1,Giovanni Candida,"Candida, Giovanni",Attribution at time of gift,
 previous_attribution,44756,1,Giovanni Candida,"Candida, Giovanni",Attribution at time of gift,
+previous_title,46760,2,Hungry Dogs,,,
 previous_attribution,44767,1,Roman 16th Century,Roman 16th Century,Attribution at time of acquisition,""
 previous_attribution,44768,1,Roman 16th Century,Roman 16th Century,Attribution at time of acquisition,""
-previous_title,45979,2,Bringing the Goats to Market Sacrifice (Trinidad),,,
 previous_attribution,44785,1,Bertoldo di Giovanni,Bertoldo di Giovanni,Attribution at time of acquisition,""
 previous_attribution,44786,1,Bertoldo di Giovanni,Bertoldo di Giovanni,Attribution at time of acquisition,""
 previous_attribution,44787,1,Bertoldo di Giovanni,Bertoldo di Giovanni,Attribution at time of acquisition,""
@@ -2248,13 +2252,13 @@ previous_attribution,44818,1,Style of Niccolò Fiorentino,"Niccolò Fiorentino, 
 previous_attribution,44819,2,Attributed to Niccolò Fiorentino,"Niccolò Fiorentino, Attributed to",Change memo 4/12/2001,2001-04-12
 previous_attribution,44819,3,Manner of Niccolò Fiorentino,"Niccolò Fiorentino, Manner of",Attribution at time of acquisition,
 previous_attribution,44819,1,Style of Niccolò Fiorentino,"Niccolò Fiorentino, Style of",Per 2007 systematic catalogue of NGA medals,""
+previous_attribution,46047,1,John Frederick Herring I,"Herring I, John Frederick",Attribution at time of gift,
 previous_attribution,44849,1,Attributed to Niccolò Fiorentino,"Niccolò Fiorentino, Attributed to",Change memo 4/12/2001,2001-04-12
 previous_attribution,44849,3,Style of Niccolò Fiorentino,"Niccolò Fiorentino, Style of",Per 2007 systematic catalogue of NGA medals,""
 previous_attribution,44849,2,Manner of Niccolò Fiorentino,"Niccolò Fiorentino, Manner of",Attribution at time of acquisition,
 previous_attribution,44850,1,Attributed to Niccolò Fiorentino,"Niccolò Fiorentino, Attributed to",Change memo 4/12/2001,2001-04-12
 previous_attribution,44850,2,Manner of Niccolò Fiorentino,"Niccolò Fiorentino, Manner of",Attribution at time of acquisition,
 previous_attribution,44850,3,Style of Niccolò Fiorentino,"Niccolò Fiorentino, Style of",Per 2007 systematic catalogue of NGA medals,""
-previous_attribution,46047,1,John Frederick Herring I,"Herring I, John Frederick",Attribution at time of gift,
 previous_attribution,46048,3,Umbrian 15th Century,Umbrian 15th Century,"Date of change unknown, but published with this attribution in 1985 European painting summary catalogue (painting was NOT published in 1965 or 1975 catalogue).
 ",
 previous_attribution,46048,2,Workshop of Perugino,"Perugino, Workshop of","Change memo 11/14/1983
@@ -2278,6 +2282,7 @@ previous_attribution,45000,1,Giovanni Paladino,"Paladino, Giovanni",Attribution 
 previous_attribution,45001,1,Giovanni Paladino,"Paladino, Giovanni",Attribution at time of gift,
 previous_attribution,45006,1,Italian 16th Century,Italian 16th Century,Attribution at time of acquisition,""
 previous_attribution,45007,1,Italian 16th Century,Italian 16th Century,Attribution at time of acquisition,""
+previous_attribution,46356,1,Claude Lorrain,Claude Lorrain,,
 previous_attribution,45074,1,after Danese Cattaneo,"Cattaneo, Danese, after",Reported to Bd. Tr. 5/4/1983,1983-05-04
 previous_attribution,45074,2,Danese Cattaneo,"Cattaneo, Danese",Attribution at time of gift,
 previous_attribution,45075,1,after Danese Cattaneo,"Cattaneo, Danese, after",Reported to Bd. Tr. 5/4/1983,1983-05-04
@@ -2286,7 +2291,6 @@ previous_attribution,45080,1,Italian 16th Century (Attributed to Benvenuto Celli
 previous_attribution,45080,2,Milanese 16th Century,Milanese 16th Century,Attribution at time of gift,
 previous_attribution,45081,1,Italian 16th Century (Attributed to Benvenuto Cellini),Italian 16th Century (Attributed to Benvenuto Cellini),Reported to Bd. Tr. 5/4/1983,1983-05-04
 previous_attribution,45081,2,Milanese 16th Century,Milanese 16th Century,Attribution at time of gift,
-previous_attribution,46356,1,Claude Lorrain,Claude Lorrain,,
 previous_attribution,45090,1,Attributed to Leone Leoni,"Leoni, Leone, Attributed to",Reported to Bd. Tr. 5/4/1983,1983-05-04
 previous_attribution,45090,2,Leone Leoni,"Leoni, Leone",Attribution at time of gift,
 previous_attribution,45091,1,Attributed to Leone Leoni,"Leoni, Leone, Attributed to",Reported to Bd. Tr. 5/4/1983,1983-05-04
@@ -2402,6 +2406,7 @@ previous_attribution,45554,1,Master L,Master L,Attribution at time of gift,
 previous_attribution,45560,1,French 17th Century,French 17th Century,Attribution at time of acquisition,""
 previous_attribution,45565,1,Attributed to Matthes Gebel,"Gebel, Matthes, Attributed to",Attribution at time of gift,
 previous_attribution,45566,1,Attributed to Matthes Gebel,"Gebel, Matthes, Attributed to",Attribution at time of gift,
+previous_title,46747,2,The Market Woman [right],,updated to match 2024 NHG cat rais,
 previous_attribution,45596,1,Pietro Torrigiano,"Torrigiano, Pietro",Attribution at time of acquisition,""
 previous_attribution,45597,1,Pietro Torrigiano,"Torrigiano, Pietro",Attribution at time of acquistion,""
 previous_attribution,45599,1,Danese Cattaneo,"Cattaneo, Danese",Attribution at time of acquisition,""
@@ -2622,13 +2627,7 @@ previous_attribution,46687,1,Georges Rouget,"Rouget, Georges",Attribution at tim
 previous_attribution,46712,1,Moïse Kisling,"Kisling, Moïse",Attribution at time of gift,
 previous_attribution,46717,1,Auguste Renoir,"Renoir, Auguste",,
 previous_attribution,46737,1,Austrian 17th Century,Austrian 17th Century,,
-previous_title,46747,2,The Market Woman [right],,updated to match 2024 NHG cat rais,
-previous_title,46756,2,The Peasant Banquet,,updated to match 2024 NHG cat rais,
-previous_title,46757,2,The Peasant Fight,,updated to match 2024 NHG cat rais,
-previous_title,46758,2,Peasants behind the Hedge,,updated to match 2024 NHG cat rais,
-previous_title,46760,2,Hungry Dogs,,,
 previous_title,46923,2,Composition III,,,
-previous_attribution,47109,1,Attributed to Alexis Nicolas Perignon I,"Perignon I, Alexis Nicolas, Attributed to",,
 previous_attribution,47089,1,Louis Gabriel Moreau,"Moreau, Louis Gabriel",,2009-06-15
 previous_attribution,47089,2,Louis-Nicolas van Blarenberghe,"Blarenberghe, Louis-Nicolas van","",1963-06-24
 previous_attribution,47094,1,French 18th Century,French 18th Century,,
@@ -2636,6 +2635,7 @@ previous_attribution,47095,1,Jean-Honoré Fragonard,"Fragonard, Jean-Honoré",,
 previous_attribution,47098,2,Jean-Honoré Fragonard,"Fragonard, Jean-Honoré",,
 previous_attribution,47098,1,French 18th Century,French 18th Century,,
 previous_attribution,47099,1,Giacomo Guardi,"Guardi, Giacomo",,
+previous_attribution,47109,1,Attributed to Alexis Nicolas Perignon I,"Perignon I, Alexis Nicolas, Attributed to",,
 previous_attribution,47114,1,Hubert Robert,"Robert, Hubert",,
 previous_attribution,47119,1,Claude Joseph Vernet,"Vernet, Claude Joseph",,
 previous_attribution,47183,1,Orazio Gentileschi,"Gentileschi, Orazio",,
@@ -2671,13 +2671,12 @@ previous_attribution,49369,1,Garo Antreasian,"Antreasian, Garo",,
 previous_attribution,49370,1,Garo Antreasian,"Antreasian, Garo",,
 previous_attribution,49371,1,Garo Antreasian,"Antreasian, Garo",,
 previous_attribution,50011,1,Afro,Afro,,
-previous_attribution,50843,1,James Sharples,"Sharples, James",,
 previous_attribution,50212,1,Auguste Renoir,"Renoir, Auguste",,
 previous_attribution,50220,1,French 15th Century,French 15th Century,Attribution at time of acquisition,1964
 previous_title,50231,2,Artist Drawing a Man in Turkish Dress,,,
 previous_attribution,50246,1,Dutch 18th Century,Dutch 18th Century,Attribution at time of acquisition,          
-previous_attribution,50302,1,American 19th Century,American 19th Century,Attribution at time of acquisition,
 previous_attribution,50297,1,Jean-Honoré Fragonard,"Fragonard, Jean-Honoré",,
+previous_attribution,50302,1,American 19th Century,American 19th Century,Attribution at time of acquisition,
 previous_attribution,50663,1,Rembrandt van Rijn,Rembrandt van Rijn,,
 previous_attribution,50690,1,H.M.T. Powell,"Powell, H.M.T.",Attribution at time of gift,
 previous_attribution,50690,2,American School,American School,"Bd. Tr. approval 4/30/1969; list reads ""Artist Unknown"", but original change proposal was annotated by W.P. Campbell to read ""American School"".",
@@ -2696,6 +2695,7 @@ previous_attribution,50824,1,Artist Unknown,Artist Unknown,Attribution at time o
 previous_attribution,50830,1,American 18th Century,American 18th Century,,
 previous_attribution,50841,1,Charles-Balthazar-Julien-Févret de Saint-Mémin,"Saint-Mémin, Charles-Balthazar-Julien-Févret de",,
 previous_attribution,50842,1,James Sharples,"Sharples, James",,
+previous_attribution,50843,1,James Sharples,"Sharples, James",,
 previous_attribution,50850,2,Follower of Sir Thomas Lawrence,"Lawrence, Sir Thomas, Follower of",Bd. Tr. approval 1/25/73,
 previous_attribution,50850,1,Sir Thomas Lawrence,"Lawrence, Sir Thomas",Attribution at time of gift,
 previous_title,50872,2,"The ""Home Sweet Home"" Cottage, No. 3, Easthampton",,,
@@ -2764,13 +2764,13 @@ previous_attribution,52607,1,Jacques Androuet Ducerceau I,"Ducerceau I, Jacques 
 previous_attribution,52623,1,Joos de Momper II,"Momper II, Joos de","Attribution at time of acquisition
 ",
 previous_title,52626,2,Study for Marine Building Mural,,,
+previous_attribution,52682,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52628,1,Bartholomeus Breenbergh,"Breenbergh, Bartholomeus",,
 previous_attribution,52658,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52676,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52677,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52678,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52681,1,Esaias van de Velde I,"Velde I, Esaias van de",,
-previous_attribution,52682,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52683,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52684,1,Esaias van de Velde I,"Velde I, Esaias van de",,
 previous_attribution,52686,1,Esaias van de Velde I,"Velde I, Esaias van de",,
@@ -2793,20 +2793,20 @@ previous_title,53039,2,"Leaves, Color, Light",,,
 previous_attribution,53107,1,Marco Ricci,"Ricci, Marco",,
 previous_attribution,53110,1,Toussaint Dubreuil,"Dubreuil, Toussaint",,
 previous_attribution,53116,1,Ivan Le Lorraine Albright,"Albright, Ivan Le Lorraine",,
+previous_title,53157,2,An Oriental Ruler Seated on His Throne,,,
 previous_attribution,53143,1,Attributed to Antonio Lombardo,"Lombardo, Antonio, Attributed to",Attribution at time of gift,
 previous_attribution,53146,1,Hans Suess von Kulmbach,"Kulmbach, Hans Suess von",,
 previous_attribution,53147,1,Attributed to Sir Anthony van Dyck,"Dyck, Sir Anthony van, Attributed to",,
-previous_title,53157,2,An Oriental Ruler Seated on His Throne,,,
 previous_title,53262,2,The Drawing Book of Abraham Bloemaert,,,
 previous_attribution,53265,1,Italian 19th Century,Italian 19th Century,,
 previous_attribution,53283,1,Attributed to Battista Angolo del Moro,"Angolo del Moro, Battista, Attributed to",,
 previous_attribution,53302,1,French 19th Century,French 19th Century,,
 previous_attribution,53308,1,Chinese Liao Dynasty,Chinese Liao Dynasty,Attribution at time of gift,
+previous_attribution,53368,1,Japanese Edo Period,Japanese Edo Period,Attribution at time of gift,
 previous_attribution,53362,1,Chinese Qing Dynasty or Chinese Republic,Chinese Qing Dynasty or Chinese Republic,Attribution at time of gift,
 previous_attribution,53363,1,Chinese Qing Dynasty or Chinese Republic,Chinese Qing Dynasty or Chinese Republic,Attribution at time of gift,
 previous_attribution,53364,1,Chinese Qing Dynasty or Chinese Republic,Chinese Qing Dynasty or Chinese Republic,Attribution at time of gift,
 previous_attribution,53367,1,Japanese Edo or Meiji Period,Japanese Edo or Meiji Period,Attribution at time of gift,
-previous_attribution,53368,1,Japanese Edo Period,Japanese Edo Period,Attribution at time of gift,
 previous_attribution,53369,1,Japanese Edo or Meiji Period,Japanese Edo or Meiji Period,Attribution at time of gift,
 previous_attribution,53395,2,Ferrarese 16th Century,Ferrarese 16th Century,Bd. Tr. approval 9/24/75,1975-09-24
 previous_attribution,53395,1,Attributed to Benvenuto Tisi da Garofalo,"Garofalo, Benvenuto Tisi da, Attributed to",,

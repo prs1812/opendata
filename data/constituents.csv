@@ -15276,6 +15276,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27082,,"Melko, Jennifer",Jennifer Melko,Melko,American,1,,,,American,American,individual,
 27089,,"Stephanopoulos, George, Mr.",Mr. George Stephanopoulos,Stephanopoulos,,0,,,,,Other,individual,
 27091,500021690,"Bricher, Alfred Thompson",Alfred Thompson Bricher,Bricher,"American, 1837 - 1908",1,1837,1908,1826 to 1850,American,American,individual,Q2646046
+27092,,"Dietrich, Adelheid",Adelheid Dietrich,Dietrich,"German, 1827 - 1891",1,1827,1891,1826 to 1850,German,German,individual,
 27093,500012834,"Fisher, Alvan",Alvan Fisher,Fisher,"American, 1792 - 1863",1,1792,1863,1776 to 1800,American,American,individual,Q3063754
 27094,500024287,"McEntee, Jervis",Jervis McEntee,McEntee,"American, 1828 - 1891",1,1828,1891,1826 to 1850,American,American,individual,Q2580100
 27111,,"Marochetti, Carlo, Baron",Baron Carlo Marochetti,Marochetti,"Italian, 1805 - 1867",0,1805,1867,1801 to 1825,Italian,Italian,individual,
@@ -25950,7 +25951,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51556,,"Stirling-Maxwell, William",William Stirling-Maxwell,Stirling-Maxwell,"Scottish, 1818 - 1878",0,1818,1878,1801 to 1825,Scottish,Scottish,individual,
 51565,,"Freeman, Barbara W.",Barbara W. Freeman,Freeman,,0,,,,,Other,individual,
 51566,500330467,"Gray, Todd",Todd Gray,Gray,"American, born 1954",1,1954,,1951 to 1975,American,American,individual,Q19666538
-51568,500100113,"Ball, James Presley",James Presley Ball,Ball,"American, 1825 - 1905",1,1825,1905,1801 to 1825,American,American,individual,Q6141423
+51568,500100113,"Ball, James Presley",James Presley Ball,Ball,"American, 1825 - 1904",1,1825,1904,1801 to 1825,American,American,individual,Q6141423
 51570,,"Walton, Robert",Robert Walton,Walton,"English, 1618 - 1688",1,1618,1688,1601 to 1650,English,English,individual,
 51571,,"Dey, Richard",Richard Dey,Dey,"English, active 1637 - 1639",1,1637,1639,1601 to 1650,English,English,individual,
 51572,,Xenophon,Xenophon,Xenophon,"Greek, born 431BC",1,431,,before 1300,Greek,Other,individual,
@@ -27582,6 +27583,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54296,,David Kordansky Gallery,David Kordansky Gallery,,,0,,,,,Other,corporate,
 54298,,"d'Argenville, Antoine Joseph Dezallier",Antoine Joseph Dezallier d'Argenville,d'Argenville,"French, 1680 - 1765",0,1680,1765,1651 to 1700,French,French,individual,
 54299,,"Baratta, Alessandro",Alessandro Baratta,Baratta,"Italian, 1637-1714",1,1637,1714,1601 to 1650,Italian,Italian,individual,
+54302,,"Beck, Thomas Earl",Thomas Earl Beck,Beck,,0,,,,,Other,individual,
 54309,,Cardinal Point Press,Cardinal Point Press,,,1,,,,,Other,corporate,
 54312,,"Ford, Leslie",Leslie Ford,Ford,,0,,,,,Other,individual,
 54315,,"Niesman, Mark",Mark Niesman,Niesman,,0,,,,,Other,individual,
