@@ -9364,7 +9364,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9943,9950,Tribolo,"Tribolo, Niccolò",,Preferred Name
 9944,9951,Murat,"Murat, Caroline-Pauline-Thérèse, Comptess",,Preferred Name
 9946,9953,,"Wertheimer, Otto",,Preferred Name
-9958,9965,,Philadelphia Art Museum,,Preferred Name
+9958,9965,,Philadelphia Museum of Art,,Preferred Name
 9959,9966,,Library of Congress,,Preferred Name
 9971,9978,,"J. Paul Getty Museum, The",,Preferred Name
 9974,9981,,Museum Folkwang Essen,,Preferred Name
@@ -27496,7 +27496,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51636,44845,,Mitchell-Innes and Nash,,Preferred Name
 51639,9949,,Museum of Modern Art,,Preferred Name
 51642,44851,,Nailya Alexander Gallery,,Preferred Name
-51671,9965,,Philadelphia Museum of Art,,Variant
+51671,9965,,Philadelphia Art Museum,,Variant
 51700,44909,,"Spanierman Gallery, LLC",,Preferred Name
 51706,44915,,Steven Kasher Gallery,,Preferred Name
 51723,8850,,The Metropolitan Museum of Art,,Variant
