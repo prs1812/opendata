@@ -27298,6 +27298,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53658,,Covington Fine Arts Gallery,Covington Fine Arts Gallery,Kielsmeier,,0,,,,,Other,corporate,
 53659,,Berezdivin Collection,Berezdivin Collection,,,0,,,,,Other,corporate,
 53660,500124632,Kcho,Kcho,,"Cuban, born 1970",1,1970,,1951 to 1975,Cuban,Other,individual,Q1737637
+53661,500355846,Allora & Calzadilla,Allora & Calzadilla,,"American, founded 1995",1,1995,,1976 to 2000,American,American,couple,
 53662,500070290,"Ferrer, Rafael",Rafael Ferrer,Ferrer,"American, born 1933",1,1933,,1926 to 1950,American,American,individual,Q7282133
 53663,500127930,"Álvarez, Pedro",Pedro Álvarez,Álvarez,"Cuban, 1967 - 2004",1,1967,2004,1951 to 1975,Cuban,Other,individual,Q7160081
 53664,500127973,"Bravo, Marta María Pérez",Marta María Pérez Bravo,Bravo,"Cuban, born 1959",1,1959,,1951 to 1975,Cuban,Other,individual,Q6774145
@@ -27456,6 +27457,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53994,,"Hoffman Gallery, Nancy",Nancy Hoffman Gallery,Hoffman Gallery,"American, founded 1972",0,1972,,1951 to 1975,American,American,corporate,
 53995,,"Cervera Galería, Marta",Marta Cervera Galería,Cervera Galería,"Spanish, founded 1996",0,1996,,1976 to 2000,Spanish,Spanish,corporate,
 53999,,"Rosado, Chemi",Chemi Rosado,Rosado,"Puerto Rican, born 1973",1,1973,,1951 to 1975,American,American,individual,Q94369487
+54000,,"Negron, Jesus Bubu","Jesús ""Bubu"" Negrón",Negrón,"Puerto Rican, born 1975",1,1975,,1951 to 1975,American,American,individual,Q119981955
 54001,500125318,"Roche-Rabell, Arnaldo",Arnaldo Roche-Rabell,Roche-Rabell,"Puerto Rican, 1955 - 2018",1,1955,2018,1951 to 1975,American,American,individual,Q5704871
 54002,500348816,"Morales, José",José Morales,Morales,"American, born 1947",1,1947,,1926 to 1950,American,American,individual,
 54004,500127934,Los Carpinteros,Los Carpinteros,,"Cuban, founded 1991",1,1991,,1976 to 2000,Cuban,Other,corporate,Q6682566
@@ -27746,9 +27748,11 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54651,,Greitzer and Locks Law Firm,Greitzer and Locks Law Firm,,American,0,,,,American,American,corporate,
 54652,,"Cohen, Nina",Nina Cohen,Cohen,,0,,,,,Other,individual,
 54654,,,Galeria Ramis Barquet,,,0,,,,Mexican,Mexican,corporate,
+54655,,"Huth, Johannes",Johannes Huth,Huth,British,0,,,,British,British,individual,
 54656,,Marian Locks Gallery,Marian Locks Gallery,,,0,1968,1990,1951 to 1975,,Other,corporate,
 54657,,Galeria Fortes Vilaça,Galeria Fortes Vilaça,,"Brazilian, founded 2001",0,2001,,2001 to present,Brazilian,Other,corporate,
 54658,,Barbara Thumm Gallery,Barbara Thumm Gallery,,,0,,,,German,German,corporate,
+54659,,Galerie Chantal Crouse,Galerie Chantal Crousel,,,0,,,,,Other,corporate,
 54660,,Jacobo Karpio Galería,Jacobo Karpio Galería,,,0,,,,,Other,corporate,
 54663,,Alex Cooper Auctioneers,Alex Cooper Auctioneers,,founded 1924,0,1924,,1901 to 1925,,Other,corporate,
 54692,,"Prager, Joanne",Joanne Prager,Prager,,0,,,,,Other,individual,

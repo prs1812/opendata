@@ -34443,11 +34443,14 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63074,53660,,Kcho,,Preferred Name
 63075,53660,,,,Variant
 63076,53660,Machado,,,Birth Name
+63077,53661,,Allora & Calzadilla,,Preferred Name
 63078,53662,Ferrer,"Ferrer, Rafael",,Preferred Name
 63079,53663,Álvarez,"Álvarez, Pedro",,Preferred Name
 63080,53664,Bravo,"Bravo, Marta María Pérez",,Preferred Name
 63081,53665,Piña,"Piña, Manuel",,Preferred Name
 63082,53666,Gispert,"Gispert, Luis",,Preferred Name
+63084,53661,Allora,"Allora, Jennifer",,Variant
+63085,53661,Calzadilla,"Calzadilla, Guillermo",,Variant
 63090,53663,Álvarez Castelló,"Álvarez Castelló, Pedro Reinaldo",,Variant
 63091,53665,Piña Baldoquín,"Piña Baldoquín, Manuel",,Variant
 63092,53665,Piña Baldoquín,"Piña Baldoquín, Manuel Antonio",,Variant
@@ -34642,6 +34645,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63468,53995,Cervera Galería,"Cervera Galería, Marta",,Preferred Name
 63472,53999,Rosado,"Rosado, Chemi",,Preferred Name
 63473,53999,Rosado Seijo,"Rosado-Seijo, Chemi",,Variant
+63475,54000,Negrón,"Negron, Jesus Bubu",,Preferred Name
 63476,54001,Roche-Rabell,"Roche-Rabell, Arnaldo",,Preferred Name
 63477,54002,Morales,"Morales, José",,Preferred Name
 63479,54004,,Los Carpinteros,,Preferred Name
@@ -35047,9 +35051,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64291,54652,Cohen,"Cohen, Nina",,Preferred Name
 64292,50175,,Bassman/Himmel Studio,,Variant
 64294,54654,,,,Preferred Name
+64295,54655,Huth,"Huth, Johannes",,Preferred Name
 64296,54656,,Marian Locks Gallery,,Preferred Name
 64297,54657,,Galeria Fortes Vilaça,,Preferred Name
 64299,54658,,Barbara Thumm Gallery,,Preferred Name
+64300,54659,,Galerie Chantal Crouse,,Preferred Name
 64301,54660,,Jacobo Karpio Galería,,Preferred Name
 64304,54663,,Alex Cooper Auctioneers,,Preferred Name
 64335,34349,,,,Variant
